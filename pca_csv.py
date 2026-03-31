@@ -30,5 +30,5 @@ df = pd.DataFrame({
 })
 
 df.to_csv("residue_contributions.csv", index=False)
-print("Archivo 'residue_contributions.csv' generado.")
+print("File 'residue_contributions.csv'.")
 
